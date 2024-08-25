@@ -14,7 +14,7 @@ Welcome to the **Rain Drops Effect** project! This repository showcases a dynami
 ## Demo
 
 Check out the TikTok video demonstrating this effect:
-- [TikTok Video](https://www.tiktok.com/@_js_vfx/video/7405848824788323590)
+- [TikTok Video](https://www.tiktok.com/@aissa_dev/video/7405848824788323590)
 
 ## Features
 
